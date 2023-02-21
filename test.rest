@@ -1,0 +1,12 @@
+GET http://localhost:8081/welcome
+Content-Type: text/plain
+
+###
+
+GET http://localhost:8081/contact
+Content-Type: application/json
+
+###
+
+GET http://localhost:8081/error
+Content-Type: application/javascript
